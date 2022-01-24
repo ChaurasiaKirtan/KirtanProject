@@ -1,2 +1,3 @@
 module JavaProject {
+	exports FinanaceDept;
 }
